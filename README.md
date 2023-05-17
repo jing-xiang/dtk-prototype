@@ -5,26 +5,29 @@ Installation
 To run the simulator, follow the steps below:
 
 Prerequisites
-Android Studio installed on your system.
-Android device emulator set up or a physical Android device connected to your computer.
+1. Android Studio installed on your system.
+2. Android device emulator set up or a physical Android device connected to your computer.
 Steps
-Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command:
 
 bash
 Copy code
 git clone https://github.com/jing-xiang/dtk-prototype.git
-Open Android Studio.
+2. Open Android Studio.
 
-Click on "Open an existing Android Studio project" and navigate to the cloned repository's directory.
+3. Click on "Open an existing Android Studio project" and navigate to the cloned repository's directory.
 
-Select the project and click "OK" to open it in Android Studio.
+4. Select the project and click "OK" to open it in Android Studio.
 
-Android Studio will take some time to sync the project and download any necessary dependencies.
+5. Android Studio will take some time to sync the project and download any necessary dependencies.
 
-Once the project is successfully imported, connect your Android device to your computer via USB or start the Android device emulator.
+6. Once the project is successfully imported, connect your Android device to your computer via USB or start the Android device emulator.
 
-In Android Studio, click on the "Run" button or use the shortcut Shift + F10 to run the application.
+7. In Android Studio, click on the "Run" button or use the shortcut Shift + F10 to run the application.
 
-Select your connected device or emulator from the list of available devices.
+8. Select your connected device or emulator from the list of available devices.
 
-The application will be installed and launched on your device or emulator, and you can start simulating the cleaning robot's movement.
+9. The application will be installed and launched on your device or emulator, and you can start simulating the cleaning robot's movement.
+
+10. Alternatively, export the application as an apk and run it on an Android device.
+
